@@ -1,4 +1,4 @@
 openCVcuda
 ==========
 
-Installation script for OpenCV with CUDA supptort
+Installation script for OpenCV with CUDA support
